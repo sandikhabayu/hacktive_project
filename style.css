@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    text-align: justify;
+}
+img{
+    border-radius: 5%;
+    border: 10px;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+    margin: 7rem 14rem;
+    padding: 1em 2em;
+    border-style: outset;
+    border-radius: 10px;
+    background-color: bisque;
+}
+.paragraf{
+    text-align: justify;
+    padding: 0 2em;
+}
